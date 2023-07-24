@@ -1,0 +1,37 @@
+.header{
+    background-color: cadetblue; 
+ }
+ #Education{
+     background-color: yellow;
+ }
+ #accom{
+     background-color: burlywood;
+ }
+ #inps{
+     background-color: red;
+ }
+ #cons{
+     background-color: green;
+     
+ }
+ #qs{
+    background-color: tomato;
+ }
+ #sgs{
+    background-color: aqua;
+ }
+ #name{
+    border-radius: 150px;
+ }
+ #name1{
+    background-color: blue;
+    color:bisque;
+    text-align: center;
+}
+#pf{
+    text-align: center;
+    color:black;
+}
+#para{
+    text-align: center;
+}
